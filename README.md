@@ -1,8 +1,8 @@
-# Class 3 
-#Installations 
+#Class 3 
+##Installations 
 -npm install
 -npm install @rneui/themed @rneui/base
 
-#Elements
+##Elements
 - Avatar
 - Button
